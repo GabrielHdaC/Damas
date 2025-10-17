@@ -144,7 +144,7 @@ O jogo termina automaticamente quando:
 
 ---
 
-## 👨‍🎓 Autore
+## 👨‍🎓 Autor
 
 * **Gabriel Heron da Cunha**
 
